@@ -1,0 +1,9 @@
+services:
+  pantry-chef:
+    image: nginx:alpine
+    container_name: pantry-app
+    ports:
+      - "4200:80"  # Opens port 4200 to your home network
+    volumes:
+      - ./dist:/usr/share/nginx/html:ro  # Mounts your built React app
+#    restart: always  # Automatically starts if your laptop reboots
