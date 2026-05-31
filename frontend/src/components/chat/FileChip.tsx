@@ -5,7 +5,7 @@ interface FileChipProps {
 
 export function FileChip({ name, onRemove }: FileChipProps) {
   return (
-    <div className="inline-flex items-center gap-1.5 px-3 py-1 bg-neutral-100 dark:bg-neutral-800 border border-neutral-300 dark:border-neutral-600 rounded-full text-sm text-neutral-700 dark:text-neutral-200 max-w-xs">
+    <div     className="inline-flex items-center gap-1.5 px-3 py-1 bg-zinc-800 border border-zinc-600 rounded-full text-sm text-zinc-300 max-w-xs">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 16 16"
@@ -20,7 +20,7 @@ export function FileChip({ name, onRemove }: FileChipProps) {
         type="button"
         onClick={onRemove}
         aria-label={`Remove ${name}`}
-        className="shrink-0 flex items-center justify-center w-4 h-4 text-neutral-400 hover:text-neutral-900 dark:hover:text-white rounded-full transition-colors"
+        className="shrink-0 flex items-center justify-center w-4 h-4 text-zinc-500 hover:text-white rounded-full transition-colors"
       >
         ✕
       </button>

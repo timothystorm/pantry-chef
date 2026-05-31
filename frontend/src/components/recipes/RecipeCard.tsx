@@ -1,34 +1,38 @@
+import '../../App.css';
 import type { Recipe } from '../../types';
 
 interface RecipeCardProps {
   recipe: Recipe;
+  onClick: () => void;
 }
 
-export function RecipeCard({ recipe }: RecipeCardProps) {
+export function RecipeCard({ recipe, onClick }: RecipeCardProps) {
   return (
-    <div className="border border-green-500 rounded-lg p-4 bg-white dark:bg-neutral-700 flex flex-col gap-3">
-      <h3 className="font-semibold text-neutral-900 dark:text-neutral-100 text-base">
-        {recipe.name}
-      </h3>
+    <div className="recipe-card" onClick={onClick} role="button" tabIndex={0}
+      onKeyDown={(e) => e.key === 'Enter' && onClick()}>
+      <div className="recipe-card-border-glow" />
+      <div className="recipe-card-glow" />
+      <div className="recipe-card-content">
+        <h3 className="recipe-card-title">{recipe.name}</h3>
 
-      <ul className="space-y-0.5">
-        {recipe.ingredients.map((ingredient, i) => (
-          <li key={i} className="flex gap-2 text-sm text-green-600 dark:text-green-400">
-            <span aria-hidden="true" className="text-green-500 select-none">–</span>
-            <span>{ingredient}</span>
-          </li>
-        ))}
-      </ul>
+        <ul className="recipe-card-ingredients">
+          {recipe.ingredients.map((ingredient, i) => (
+            <li key={i}><span>{ingredient}</span></li>
+          ))}
+        </ul>
 
-      <hr className="border-neutral-200" />
+        <hr className="recipe-card-divider" />
 
-      <ol className="space-y-1 list-decimal list-inside">
-        {recipe.instructions.map((step, i) => (
-          <li key={i} className="text-sm text-orange-500 dark:text-orange-400">
-            {step}
-          </li>
-        ))}
-      </ol>
+        <ol className="recipe-card-instructions">
+          {recipe.instructions.map((step, i) => (
+            <li key={i}>
+              <span className="step-num">{i + 1}.</span>
+              <span>{step}</span>
+            </li>
+          ))}
+        </ol>
+      </div>
+      <div className="recipe-card-fade" />
     </div>
   );
 }

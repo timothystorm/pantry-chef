@@ -1,2 +1,10 @@
  @import "tailwindcss";
 
+/* page base — always dark to match the card aesthetic */
+html, body {
+  background-color: #09090b;
+  color: #e4e4e7;
+  margin: 0;
+  min-height: 100vh;
+}
+

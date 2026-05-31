@@ -48,7 +48,7 @@ export function ChatBar({
 
         <div className="flex items-center gap-2">
           {/* Dark input bar */}
-          <div className="flex-1 flex items-center bg-neutral-900 rounded-lg px-3 py-2.5 gap-2 min-w-0 border border-amber-50">
+          <div className="flex-1 flex items-center bg-zinc-900 rounded-lg px-3 py-2.5 gap-2 min-w-0 border border-zinc-700 focus-within:border-green-500/50 transition-colors">
             <input
                 type="text"
                 value={prompt}
@@ -70,7 +70,7 @@ export function ChatBar({
               type="button"
               onClick={() => fileInputRef.current?.click()}
               aria-label="Attach inventory file"
-              className="flex items-center justify-center w-13 h-13 bg-neutral-900 rounded-lg shrink-0 hover:bg-neutral-800 transition-colors border border-amber-50"
+          className="flex items-center justify-center w-11 h-11 bg-zinc-900 rounded-lg flex-shrink-0 border border-zinc-700 hover:border-zinc-500 transition-colors"
           >
             <svg
                 xmlns="http://www.w3.org/2000/svg"
