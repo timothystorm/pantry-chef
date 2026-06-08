@@ -1,0 +1,89 @@
+{
+  "id": "keto-sweet-and-sour-sauce",
+  "title": "Keto Sweet & Sour Sauce",
+  "cuisine": "Chinese-American",
+  "meal_type": "Sauce",
+  "tags": [
+    "keto",
+    "low-carb",
+    "sugar-free",
+    "sauce",
+    "condiment",
+    "easy"
+  ],
+  "prep_time_mins": 5,
+  "inactive_time_mins": 0,
+  "cook_time_mins": 2,
+  "total_time_mins": 7,
+  "servings": 8,
+  "notes": [
+    "Great for dipping or tossing with chicken, pork, or vegetables."
+  ],
+  "ingredients": [
+    {
+      "item": "Monk Fruit Sweetener",
+      "amount": "0.5",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "apple cider vinegar",
+      "amount": "0.5",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "no sugar added ketchup",
+      "amount": "0.33",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "water",
+      "amount": "0.33",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "soy sauce",
+      "amount": "2",
+      "unit": "tbsp",
+      "preparation": null,
+      "alternative": "coconut aminos"
+    },
+    {
+      "item": "sesame oil",
+      "amount": "1",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "xanthan gum",
+      "amount": "0.25",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Combine Ingredients",
+      "steps": [
+        "Combine the sesame oil and xanthan gum in a medium saucepan and stir until the xanthan gum is fully mixed with the oil.",
+        "Slowly whisk in the apple cider vinegar so that it mixes in well with the xanthan gum, then pour in the water, soy sauce, ketchup and sweetener."
+      ]
+    },
+    {
+      "phase": "Thicken and Cook",
+      "steps": [
+        "Bring the sauce to a boil, reduce to a simmer and cook until thick, 1-2 minutes.",
+        "Pour over your favourite meal or use for dipping!"
+      ]
+    }
+  ]
+}

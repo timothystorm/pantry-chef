@@ -1,0 +1,103 @@
+{
+  "id": "marinara-sauce",
+  "title": "Marinara",
+  "cuisine": "Italian",
+  "meal_type": "Sauce",
+  "tags": [
+    "sauce",
+    "italian",
+    "pasta",
+    "marinara",
+    "tomatoes",
+    "vegan",
+    "vegetarian",
+    "easy"
+  ],
+  "prep_time_mins": 15,
+  "inactive_time_mins": 60,
+  "cook_time_mins": 70,
+  "total_time_mins": 85,
+  "servings": 6,
+  "notes": [
+    "Can be stored in jars and refrigerated for up to one week."
+  ],
+  "ingredients": [
+    {
+      "item": "San Marzano Tomatoes",
+      "amount": "2",
+      "unit": "cans (28 oz)",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "yellow onion",
+      "amount": "0.5",
+      "unit": "whole",
+      "preparation": "diced",
+      "alternative": null
+    },
+    {
+      "item": "garlic",
+      "amount": "8",
+      "unit": "cloves",
+      "preparation": "minced",
+      "alternative": null
+    },
+    {
+      "item": "bay leaf",
+      "amount": "1",
+      "unit": "whole",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "fresh basil leaves",
+      "amount": "0.33",
+      "unit": "cup",
+      "preparation": "sliced or torn",
+      "alternative": null
+    },
+    {
+      "item": "extra virgin olive oil",
+      "amount": "4",
+      "unit": "tbsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "sea salt",
+      "amount": "1",
+      "unit": "pinch",
+      "preparation": null,
+      "alternative": "to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Saut\u00e9 Aromatics",
+      "steps": [
+        "Heat a heavy bottom large pot on medium low flame.",
+        "Add a lug of olive oil and the diced onion with a pinch of sea salt.",
+        "Cook for about 10 minutes until translucent, taking good care not to burn it.",
+        "Stir in the minced garlic and let it infuse the oil for about 30 seconds."
+      ]
+    },
+    {
+      "phase": "Simmer Sauce",
+      "steps": [
+        "Use your hands to crush the tomatoes as you add them to the pot with the onion and garlic, aiming for rustic chunks.",
+        "Add the bay leaf and 4 sprigs of basil, then bring everything to a gentle simmer.",
+        "Partially cover with a lid and cook down until reduced and thick to your liking, about an hour or so. Stir a few times to make sure the sugars from the tomatoes do not stick to the bottom."
+      ]
+    },
+    {
+      "phase": "Finish and Serve",
+      "steps": [
+        "After the sauce has reduced, season to taste with sea salt.",
+        "Discard the bay leaf and basil sprigs.",
+        "Finish with a drizzle of extra virgin olive oil and the reserved fresh basil.",
+        "Serve with your favorite pasta or transfer to jars and refrigerate for up to one week."
+      ]
+    }
+  ]
+}

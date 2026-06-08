@@ -1,0 +1,124 @@
+{
+  "id": "party-shrimp",
+  "title": "Party Shrimp",
+  "cuisine": "Seafood",
+  "meal_type": "Main Dish",
+  "tags": [
+    "shrimp",
+    "seafood",
+    "easy",
+    "marinated",
+    "rice"
+  ],
+  "prep_time_mins": 10,
+  "inactive_time_mins": 120,
+  "cook_time_mins": 15,
+  "total_time_mins": 145,
+  "servings": 4,
+  "notes": [],
+  "ingredients": [
+    {
+      "item": "olive oil",
+      "amount": "1",
+      "unit": "Tbsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "honey",
+      "amount": "3",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "lemon juice",
+      "amount": "1",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "garlic clove",
+      "amount": "1",
+      "unit": "clove",
+      "preparation": "minced",
+      "alternative": null
+    },
+    {
+      "item": "paprika",
+      "amount": "0.5",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "italian seasoning",
+      "amount": "0.5",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "dried basil",
+      "amount": "0.5",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "black pepper",
+      "amount": "0.25",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "uncooked shrimp",
+      "amount": "1",
+      "unit": "lbs",
+      "preparation": "peeled and deveined",
+      "alternative": null
+    },
+    {
+      "item": "coconut flour",
+      "amount": "2",
+      "unit": "Tbsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "cooked rice",
+      "amount": "2",
+      "unit": "cups",
+      "preparation": null,
+      "alternative": null
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Marinating",
+      "steps": [
+        "In a bowl or shallow dish, combine the first eight ingredients (olive oil, honey, lemon juice, garlic, paprika, italian seasoning, dried basil, and black pepper).",
+        "Add shrimp and toss to coat.",
+        "Refrigerate for 2 hours."
+      ]
+    },
+    {
+      "phase": "Cooking Shrimp",
+      "steps": [
+        "Cook shrimp in the marinade until fully cooked.",
+        "Remove shrimp and set aside."
+      ]
+    },
+    {
+      "phase": "Sauce and Assembly",
+      "steps": [
+        "Add coconut flour to the remaining marinade.",
+        "Cook on high, whisking vigorously to prevent burning or sticking.",
+        "Cook until sauce begins to thicken, about 8 minutes.",
+        "Place 6 to 8 shrimp on a bed of rice and drizzle the sauce over the rice and shrimp."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "keto-chicken-tenders",
+  "title": "Keto Chicken Tenders",
+  "cuisine": "American",
+  "meal_type": "Main Dish",
+  "tags": [
+    "Keto",
+    "Low Carb",
+    "Gluten-Free",
+    "Chicken",
+    "Dinner"
+  ],
+  "prep_time_mins": 15,
+  "inactive_time_mins": 0,
+  "cook_time_mins": 25,
+  "total_time_mins": 40,
+  "servings": 4,
+  "notes": [
+    "Pork rind panko can be purchased pre-made or made at home by crushing pork rinds in a food processor until they reach a breadcrumb-like consistency."
+  ],
+  "ingredients": [
+    {
+      "item": "chicken breast",
+      "amount": "1.5",
+      "unit": "pounds",
+      "preparation": "cut into 12 strips",
+      "alternative": null
+    },
+    {
+      "item": "egg",
+      "amount": "1",
+      "unit": "",
+      "preparation": "beaten",
+      "alternative": null
+    },
+    {
+      "item": "mayonnaise",
+      "amount": "1",
+      "unit": "tablespoon",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "butter",
+      "amount": "2",
+      "unit": "tablespoons",
+      "preparation": "melted",
+      "alternative": null
+    },
+    {
+      "item": "pork rind panko",
+      "amount": "1",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "almond flour",
+      "amount": "0.33",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "grated parmesan cheese",
+      "amount": "0.33",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "garlic powder",
+      "amount": "0.5",
+      "unit": "teaspoon",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "onion powder",
+      "amount": "0.5",
+      "unit": "teaspoon",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "salt",
+      "amount": "0.5",
+      "unit": "teaspoon",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "black pepper",
+      "amount": "0.5",
+      "unit": "teaspoon",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "paprika",
+      "amount": "0.25",
+      "unit": "teaspoon",
+      "preparation": null,
+      "alternative": null
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Preparation",
+      "steps": [
+        "Preheat the oven to 425 degrees F",
+        "Spray a large cookie sheet with cooking spray, or line with aluminum foil.",
+        "In one shallow bowl combine the egg and mayonnaise, beat with a fork until it is completely combined. Set aside.",
+        "In another shallow bowl combine the Keto Breading ingredients (pork rind panko, almond flour, parmesan cheese, garlic powder, onion powder, salt, black pepper, and paprika)."
+      ]
+    },
+    {
+      "phase": "Breading & Assembly",
+      "steps": [
+        "Dip each sliced chicken tender into the egg mixture, then dredge in the breading. Make sure the tenders are completely coated.",
+        "Once each tender is coated well, lay on the cooking sheet and brush with the melted butter."
+      ]
+    },
+    {
+      "phase": "Baking",
+      "steps": [
+        "Bake 15 minutes, turn the tenders carefully using tongs and bake an additional 5-10 minutes until the chicken is cooked through."
+      ]
+    }
+  ]
+}

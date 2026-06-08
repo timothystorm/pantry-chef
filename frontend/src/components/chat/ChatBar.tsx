@@ -12,6 +12,8 @@ interface ChatBarProps {
   onFileChange: (file: FileItem | null) => void;
   isLoading: boolean;
   onSubmit: () => void;
+  /** Optional panel rendered below the input row (e.g. ConsoleModal). */
+  consoleSlot?: React.ReactNode;
 }
 
 export function ChatBar({
@@ -21,6 +23,7 @@ export function ChatBar({
                           onFileChange,
                           isLoading,
                           onSubmit,
+                          consoleSlot,
                         }: ChatBarProps) {
   const fileInputRef = useRef<HTMLInputElement>(null);
   const isSubmitEnabled = (prompt.trim() !== '' || file !== null) && !isLoading;
@@ -54,9 +57,10 @@ export function ChatBar({
                 value={prompt}
                 onChange={(e) => onPromptChange(e.target.value)}
                 onKeyDown={handleKeyDown}
+                disabled={isLoading}
                 autoFocus
                 placeholder="What do you have in your pantry"
-                className="flex-1 bg-transparent text-white placeholder-neutral-500 text-sm outline-none min-w-0"
+                className="flex-1 bg-transparent text-white placeholder-neutral-500 text-sm outline-none min-w-0 disabled:opacity-50"
             />
             <SendButton
                 isLoading={isLoading}
@@ -65,12 +69,13 @@ export function ChatBar({
             />
           </div>
 
-          {/* Paperclip button */}
+          {/* Paperclip — disabled while a request is in-flight */}
           <button
               type="button"
               onClick={() => fileInputRef.current?.click()}
+              disabled={isLoading}
               aria-label="Attach inventory file"
-          className="flex items-center justify-center w-11 h-11 bg-zinc-900 rounded-lg flex-shrink-0 border border-zinc-700 hover:border-zinc-500 transition-colors"
+              className="flex items-center justify-center w-11 h-11 bg-zinc-900 rounded-lg flex-shrink-0 border border-zinc-700 hover:border-zinc-500 transition-colors disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:border-zinc-700"
           >
             <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -96,6 +101,9 @@ export function ChatBar({
               onChange={handleFileChange}
           />
         </div>
+
+        {/* Console status panel — rendered when a search is active */}
+        {consoleSlot}
       </div>
   );
 }

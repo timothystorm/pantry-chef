@@ -1,0 +1,134 @@
+{
+  "id": "pizza-dough",
+  "title": "Pizza Dough",
+  "cuisine": "Italian",
+  "meal_type": "Main Dish",
+  "tags": [
+    "pizza",
+    "dough",
+    "baking",
+    "yeast",
+    "homemade"
+  ],
+  "prep_time_mins": 20,
+  "inactive_time_mins": 150,
+  "cook_time_mins": 10,
+  "total_time_mins": 180,
+  "servings": 3,
+  "notes": [
+    "To use a pizza stone: Preheat stone in oven. Sprinkle wooden paddle very generously with semolina (or flour or cornmeal/polenta). Slide raw pizza base onto paddle, cover with toppings. Remove hot stone from oven, then slide pizza onto hot stone. Transfer to oven immediately, cook 6 to 7 minutes.",
+    "Recipe source: https://www.recipetineats.com/pizza-dough-recipe/",
+    "Topping ideas: https://www.recipetineats.com/pizza-toppings/"
+  ],
+  "ingredients": [
+    {
+      "item": "bread flour or pizza flour",
+      "amount": "600",
+      "unit": "g",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "rapid rise or instant yeast",
+      "amount": "2",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "salt",
+      "amount": "2.5",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "white sugar",
+      "amount": "4",
+      "unit": "tsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "extra virgin olive oil",
+      "amount": "4",
+      "unit": "tbsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "warm tap water (98-102\u00b0F)",
+      "amount": "330",
+      "unit": "ml",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "pizza sauce",
+      "amount": "1",
+      "unit": "cup",
+      "preparation": "divided",
+      "alternative": null
+    },
+    {
+      "item": "freshly grated mozzarella",
+      "amount": "390",
+      "unit": "g",
+      "preparation": "divided",
+      "alternative": null
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Dough",
+      "steps": [
+        "Mix dry: Place flour, yeast, sugar and salt in a large bowl. Mix with a wooden spoon.",
+        "Add wet: Make a well in the centre. Pour in oil and water. Mix to bring together so it comes away from the side of the bowl.",
+        "Knead 5 minutes: Sprinkle work surface with flour. Scrape dough out of bowl. Bring together into a ball then knead for 5 minutes until pretty smooth. Shape dough into a ball."
+      ]
+    },
+    {
+      "phase": "Rise #1",
+      "steps": [
+        "Drizzle large bowl with Extra Olive Oil (can use same bowl).",
+        "Place dough in, turn over and rub top with oil.",
+        "Cover with cling wrap, then put in a warm place for 1 to 2 hours until it doubles in size."
+      ]
+    },
+    {
+      "phase": "Optional Fridge Flavor Development",
+      "steps": [
+        "After rising, refrigerate bowl with dough for up to 5 days (do not punch down). Flavour gets better with time."
+      ]
+    },
+    {
+      "phase": "Rise #2",
+      "steps": [
+        "Scrape dough out of bowl on work surface lightly dusted with flour. Shape into log, fully deflating dough in the process.",
+        "Cut into 3 equal portions (330g / 11.6 oz each) \u2013 one for each pizza base.",
+        "For each dough portion, shape into a ball, tuck the sides under, money-bag style, so you have a smooth surface.",
+        "Place balls, smooth side up, on a large tray \u2013 5cm / 2\" from edge of tray, 10cm / 4\" from each other.",
+        "Sprinkle balls with a touch of flour and lightly rub to coat surface (so they don't stick to tea towel). Cover balls with lightly damp tea towel. Alternatively, cover loosely with a sheet of baking paper then seal tray with cling wrap, ensuring the dough balls have plenty of space to rise under the cling wrap.",
+        "Leave in warm place 1 hour until almost double in size. (If fridge-cold, this will take 3 to 4 hours)."
+      ]
+    },
+    {
+      "phase": "Shape Pizza Crust",
+      "steps": [
+        "Preheat oven to 275\u00b0C / 530\u00b0F, or as high as it will go. Put shelf in top third of oven.",
+        "Sprinkle work surface with 0.5 tbsp flour. Place one dough ball on top.",
+        "Without touching the edges, use finger tips and back of fingers to deflate dough gently and spread out into a 20cm/8\" round. Then use your fingers and palms to stretch the dough, working around the circle, until it's almost the size of a 30cm / 12\" pizza pan.",
+        "Drag onto the pizza pan (or paddle if cooking on pizza stone). Then finish stretching it to fill the pan. Neaten up the shape so it's as perfectly round and uniform as possible \u2013 the shape you have now is the shape it will bake to! Leave 1 cm / 1/3\" of the edge untouched as much as possible (for puffy crusts!)."
+      ]
+    },
+    {
+      "phase": "Toppings & Baking",
+      "steps": [
+        "Spread with 1/3 cup pizza sauce, 130g / 1 1/3 cups freshly grated mozzarella, then toppings of choice.",
+        "Bake 10 minutes, rotating at 4 minutes and checking at 8 minutes, until cheese is melted and has some golden spots.",
+        "Cut into wedges, serve immediately.",
+        "Repeat process for remaining balls to make two more pizzas."
+      ]
+    }
+  ]
+}

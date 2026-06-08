@@ -1,0 +1,142 @@
+{
+  "id": "beef-stock",
+  "title": "Beef Stock",
+  "cuisine": null,
+  "meal_type": "Base",
+  "tags": [
+    "beef",
+    "stock",
+    "soup base",
+    "slow cook",
+    "roasting"
+  ],
+  "prep_time_mins": 15,
+  "inactive_time_mins": 300,
+  "cook_time_mins": 330,
+  "total_time_mins": 345,
+  "servings": 12,
+  "notes": [],
+  "ingredients": [
+    {
+      "item": "Beef soup bones",
+      "amount": "6",
+      "unit": "Lbs.",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "onion",
+      "amount": "1",
+      "unit": "Large",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "Carrots",
+      "amount": "3",
+      "unit": "Large",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "water",
+      "amount": "0.5",
+      "unit": "Cup",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "Celery",
+      "amount": "2",
+      "unit": "stalks",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "tomato",
+      "amount": "1",
+      "unit": "Large",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "parsnip",
+      "amount": "0.5",
+      "unit": "Cup",
+      "preparation": "chopped",
+      "alternative": null
+    },
+    {
+      "item": "potato",
+      "amount": "1",
+      "unit": "medium",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "parsley",
+      "amount": "4",
+      "unit": "Sprigs",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "Bay leaf",
+      "amount": "1",
+      "unit": "",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "salt",
+      "amount": "1",
+      "unit": "Tablespoon",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "dried thyme",
+      "amount": "2",
+      "unit": "teaspoons",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "Garlic",
+      "amount": "2",
+      "unit": "cloves",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "water",
+      "amount": "12",
+      "unit": "Cups",
+      "preparation": null,
+      "alternative": null
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Roasting",
+      "steps": [
+        "Preheat oven to 450 degrees",
+        "Quarter the onion. Scrub carrots and chop into 1 inch chunks. In a large shallow roasting pan add soup bones, onion, and carrots. Bake uncovered for 30 minutes, turning occasionally until bones are well browned."
+      ]
+    },
+    {
+      "phase": "Combining",
+      "steps": [
+        "Drain off fat. Place the bones, onion, and carrots in a large pot. Pour 1/2 cup of water into roasting pan to rinse and pour liquid into pot.",
+        "Scrub potato and cut into chunks. Chop celery into thirds. Add remaining ingredients to pot."
+      ]
+    },
+    {
+      "phase": "Simmering & Straining",
+      "steps": [
+        "Bring mixture to a boil then reduce the heat. Cover and simmer for 5 hours.",
+        "Drain stock and discard ingredients."
+      ]
+    }
+  ]
+}

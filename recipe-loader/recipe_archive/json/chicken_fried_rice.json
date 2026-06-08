@@ -1,0 +1,171 @@
+{
+  "id": "chicken-fried-rice",
+  "title": "Chicken Fried Rice",
+  "cuisine": "Chinese-American",
+  "meal_type": "Main Dish",
+  "tags": [
+    "chicken",
+    "rice",
+    "fried rice",
+    "stir-fry",
+    "quick-meals"
+  ],
+  "prep_time_mins": 15,
+  "inactive_time_mins": 0,
+  "cook_time_mins": 20,
+  "total_time_mins": 35,
+  "servings": 4,
+  "notes": [
+    "Peas were mentioned in step 13 but missing from the original ingredient list. They have been added to the ingredients list."
+  ],
+  "ingredients": [
+    {
+      "item": "jasmine rice",
+      "amount": "2",
+      "unit": "cups",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "water",
+      "amount": "3.5",
+      "unit": "cups",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "carrots",
+      "amount": "4",
+      "unit": "medium",
+      "preparation": "peeled and finely diced",
+      "alternative": null
+    },
+    {
+      "item": "celery stalks",
+      "amount": "4",
+      "unit": "stalks",
+      "preparation": "finely diced",
+      "alternative": null
+    },
+    {
+      "item": "yellow onion",
+      "amount": "1",
+      "unit": "",
+      "preparation": "finely diced",
+      "alternative": null
+    },
+    {
+      "item": "cremini mushrooms",
+      "amount": "1",
+      "unit": "cup",
+      "preparation": "finely diced",
+      "alternative": null
+    },
+    {
+      "item": "garlic",
+      "amount": "3",
+      "unit": "cloves",
+      "preparation": "minced",
+      "alternative": null
+    },
+    {
+      "item": "chicken breasts",
+      "amount": "2.5",
+      "unit": "breasts",
+      "preparation": "thinly sliced",
+      "alternative": null
+    },
+    {
+      "item": "high smoke point cooking oil",
+      "amount": "5",
+      "unit": "Tbsp",
+      "preparation": "divided",
+      "alternative": null
+    },
+    {
+      "item": "sherry",
+      "amount": "2",
+      "unit": "Tbsp",
+      "preparation": null,
+      "alternative": "rice wine"
+    },
+    {
+      "item": "honey",
+      "amount": "2",
+      "unit": "Tbsp",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "soy sauce",
+      "amount": "6",
+      "unit": "Tbsp",
+      "preparation": "divided",
+      "alternative": "coconut aminos"
+    },
+    {
+      "item": "eggs",
+      "amount": "5",
+      "unit": "",
+      "preparation": "quickly whisked together",
+      "alternative": null
+    },
+    {
+      "item": "green onions",
+      "amount": "0.25",
+      "unit": "cup",
+      "preparation": "sliced",
+      "alternative": null
+    },
+    {
+      "item": "peas",
+      "amount": "1",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Rice Preparation",
+      "steps": [
+        "Add water to rice in a sauce pan and turn to high heat until rolling boil then turn heat to low, put a lid on and cook for about 15 minutes."
+      ]
+    },
+    {
+      "phase": "Prep Work",
+      "steps": [
+        "While rice is cooking, finely dice the carrots, celery, onion, and mushrooms.",
+        "Mince garlic and add to the diced vegetables.",
+        "Thinly slice the chicken breasts."
+      ]
+    },
+    {
+      "phase": "Cooking Chicken",
+      "steps": [
+        "Add about 3 Tbsp. cooking oil to a large pan or wok set on high heat.",
+        "The instant the oil starts to smoke, add the chicken, stir-frying until the chicken is cooked.",
+        "Add sherry, 2 Tbsp. soy sauce, and honey.",
+        "Cook chicken for another minute, mixing the sauce, then set it to the side."
+      ]
+    },
+    {
+      "phase": "Cooking Vegetables and Eggs",
+      "steps": [
+        "Add 2 Tbsp. cooking oil to the pan.",
+        "The instant it starts to smoke, add the vegetables and garlic, stir-frying for about 2 minutes until the vegetables are cooked but still a bit crunchy.",
+        "Pour the whisked eggs over the vegetables and cook omelette style."
+      ]
+    },
+    {
+      "phase": "Combining and Finishing",
+      "steps": [
+        "Once the egg begins to set up, stir them in and add the chicken and cooked rice.",
+        "Add 4 Tbsp. soy sauce, 1 cup peas, and the green onions.",
+        "Mix everything completely together.",
+        "Add salt and pepper to taste.",
+        "Serve and enjoy."
+      ]
+    }
+  ]
+}

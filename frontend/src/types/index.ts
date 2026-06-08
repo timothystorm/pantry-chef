@@ -17,3 +17,11 @@ export interface ToastConfig {
   message: string;
   durationMs?: number;
 }
+
+export interface ConsoleEntry {
+  id: string;
+  text: string;
+  type: 'info' | 'success' | 'error';
+}
+
+export type ConsoleState = 'idle' | 'loading' | 'success' | 'error';

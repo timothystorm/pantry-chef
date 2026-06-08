@@ -1,0 +1,140 @@
+{
+  "id": "slow-cooker-jambalaya",
+  "title": "Jambalaya",
+  "cuisine": "Creole",
+  "meal_type": "Main Dish",
+  "tags": [
+    "Slow Cooker",
+    "Cajun",
+    "Creole",
+    "Shrimp",
+    "Sausage",
+    "Soup"
+  ],
+  "prep_time_mins": 20,
+  "inactive_time_mins": 0,
+  "cook_time_mins": 372,
+  "total_time_mins": 392,
+  "servings": 6,
+  "notes": [],
+  "ingredients": [
+    {
+      "item": "smoked andouille sausage",
+      "amount": "6",
+      "unit": "ounces",
+      "preparation": "chopped"
+    },
+    {
+      "item": "unsalted chicken stock",
+      "amount": "4",
+      "unit": "cups",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "unsalted diced tomatoes and green chiles (10-oz. cans)",
+      "amount": "2",
+      "unit": "cans",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "yellow onion",
+      "amount": "1",
+      "unit": "cup",
+      "preparation": "chopped",
+      "alternative": null
+    },
+    {
+      "item": "yellow bell pepper",
+      "amount": "1",
+      "unit": "cup",
+      "preparation": "chopped",
+      "alternative": null
+    },
+    {
+      "item": "celery",
+      "amount": "0.5",
+      "unit": "cup",
+      "preparation": "chopped",
+      "alternative": null
+    },
+    {
+      "item": "tomato paste",
+      "amount": "3",
+      "unit": "tablespoons",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "salt-free Creole seasoning",
+      "amount": "1",
+      "unit": "tablespoon",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "garlic",
+      "amount": "2",
+      "unit": "cloves",
+      "preparation": "chopped",
+      "alternative": null
+    },
+    {
+      "item": "kosher salt",
+      "amount": "0.5",
+      "unit": "teaspoon",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "uncooked brown rice",
+      "amount": "0.67",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "raw medium shrimp",
+      "amount": "12",
+      "unit": "ounces",
+      "preparation": "peeled and deveined",
+      "alternative": null
+    },
+    {
+      "item": "fresh flat-leaf parsley",
+      "amount": "0.5",
+      "unit": "cup",
+      "preparation": "chopped",
+      "alternative": null
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Sausage & Slow Cooker Base",
+      "steps": [
+        "Heat a large nonstick skillet over medium-high.",
+        "Add sausage; cook, stirring occasionally, until browned, about 4 minutes.",
+        "Transfer to a 5- to 6-quart slow cooker.",
+        "Add stock, tomatoes and chiles, onion, bell pepper, celery, tomato paste, Creole seasoning, garlic, and salt.",
+        "Cover and cook on low 4 hours."
+      ]
+    },
+    {
+      "phase": "Adding Rice",
+      "steps": [
+        "Stir in rice.",
+        "Cover and cook on low until rice is tender, about 2 hours."
+      ]
+    },
+    {
+      "phase": "Finishing with Shrimp",
+      "steps": [
+        "Stir in shrimp.",
+        "Cover and cook on low 8 minutes.",
+        "Divide soup evenly among 6 bowls.",
+        "Sprinkle with parsley."
+      ]
+    }
+  ]
+}

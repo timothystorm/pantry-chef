@@ -1,0 +1,22 @@
+# 🍚 Spanish Rice   
+# 🍚 Spanish Rice   
+# 🍚 Spanish Rice   
+# 🍚 Spanish Rice   
+# 🍚 Spanish Rice   
+# 🍚 Spanish Rice   
+# 🍚 Spanish Rice   
+# 🍚 Spanish Rice   
+# ⭐️⭐️⭐️⭐️  
+# ⭐️⭐️⭐️⭐️  
+# ⭐️⭐️⭐️⭐️  
+- 2 tablespoons oil   
+- 2 tablespoons chopped onion   
+- 1 ½ cups uncooked white rice   
+- 2 cups chicken broth   
+- 1 cup chunky salsa  
+- 1 cup chunky salsa  
+  
+1. Heat oil in a large, heavy skillet over medium heat. Stir in onion, and cook until tender, about 5 minutes  
+2. Heat oil in a large, heavy skillet over medium heat. Stir in onion, and cook until tender, about 5 minutes  
+3. Mix rice into skillet, stirring often. When rice begins to brown, stir in chicken broth and salsa. Reduce heat, cover and simmer 20 minutes, until liquid has been absorbed  
+4. Mix rice into skillet, stirring often. When rice begins to brown, stir in chicken broth and salsa. Reduce heat, cover and simmer 20 minutes, until liquid has been absorbed  

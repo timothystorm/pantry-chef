@@ -1,0 +1,71 @@
+{
+  "id": "spanish-rice",
+  "title": "Spanish Rice",
+  "cuisine": "Mexican",
+  "meal_type": "Side Dish",
+  "tags": [
+    "rice",
+    "easy",
+    "side dish",
+    "quick"
+  ],
+  "prep_time_mins": 5,
+  "inactive_time_mins": 0,
+  "cook_time_mins": 30,
+  "total_time_mins": 35,
+  "servings": 4,
+  "notes": [],
+  "ingredients": [
+    {
+      "item": "oil",
+      "amount": "2",
+      "unit": "tablespoons",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "onion",
+      "amount": "2",
+      "unit": "tablespoons",
+      "preparation": "chopped",
+      "alternative": null
+    },
+    {
+      "item": "uncooked white rice",
+      "amount": "1.5",
+      "unit": "cups",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "chicken broth",
+      "amount": "2",
+      "unit": "cups",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "chunky salsa",
+      "amount": "1",
+      "unit": "cup",
+      "preparation": null,
+      "alternative": null
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Saut\u00e9ing",
+      "steps": [
+        "Heat oil in a large, heavy skillet over medium heat. Stir in onion, and cook until tender, about 5 minutes."
+      ]
+    },
+    {
+      "phase": "Cooking Rice",
+      "steps": [
+        "Mix rice into skillet, stirring often.",
+        "When rice begins to brown, stir in chicken broth and salsa.",
+        "Reduce heat, cover and simmer 20 minutes, until liquid has been absorbed."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "bone-broth",
+  "title": "Bone Broth",
+  "cuisine": "American",
+  "meal_type": "Base",
+  "tags": [
+    "beef",
+    "broth",
+    "stock",
+    "slow-cooker",
+    "paleo",
+    "keto",
+    "gluten-free",
+    "healthy"
+  ],
+  "prep_time_mins": 15,
+  "inactive_time_mins": 720,
+  "cook_time_mins": 520,
+  "total_time_mins": 1255,
+  "servings": 8,
+  "notes": [
+    "Special equipment: 6-quart (or larger) stockpot or a large slow cooker.",
+    "The longer you simmer it, the better your broth will be."
+  ],
+  "ingredients": [
+    {
+      "item": "beef bones, preferably a mix of marrow bones and bones with a little meat on them, such as oxtail, short ribs, or knuckle bones",
+      "amount": "4",
+      "unit": "pounds",
+      "preparation": "cut in half by a butcher",
+      "alternative": null
+    },
+    {
+      "item": "carrots",
+      "amount": "2",
+      "unit": "medium",
+      "preparation": "unpeeled, cut into 2-inch pieces",
+      "alternative": null
+    },
+    {
+      "item": "leek",
+      "amount": "1",
+      "unit": "medium",
+      "preparation": "end trimmed, cut into 2-inch pieces",
+      "alternative": null
+    },
+    {
+      "item": "onion",
+      "amount": "1",
+      "unit": "medium",
+      "preparation": "quartered",
+      "alternative": null
+    },
+    {
+      "item": "garlic head",
+      "amount": "1",
+      "unit": "whole",
+      "preparation": "halved crosswise",
+      "alternative": null
+    },
+    {
+      "item": "celery stalks",
+      "amount": "2",
+      "unit": "whole",
+      "preparation": "cut into 2-inch pieces",
+      "alternative": null
+    },
+    {
+      "item": "bay leaves",
+      "amount": "2",
+      "unit": "whole",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "black peppercorns",
+      "amount": "2",
+      "unit": "tablespoons",
+      "preparation": null,
+      "alternative": null
+    },
+    {
+      "item": "cider vinegar",
+      "amount": "1",
+      "unit": "tablespoon",
+      "preparation": null,
+      "alternative": null
+    }
+  ],
+  "instructions": [
+    {
+      "phase": "Roasting",
+      "steps": [
+        "Preheat oven to 450\u00b0F.",
+        "Place beef bones, carrots, leek, onion, and garlic on a roasting pan or rimmed baking sheet and roast for 20 minutes.",
+        "Toss the contents of the pan and continue to roast until deeply browned, about 20 minutes more."
+      ]
+    },
+    {
+      "phase": "Simmering",
+      "steps": [
+        "Fill a large (at least 6-quart) stockpot with 12 cups of water (preferably filtered).",
+        "Add celery, bay leaves, peppercorns, and vinegar.",
+        "Scrape the roasted bones and vegetables into the pot along with any juices. Add more water if necessary to cover bones and vegetables.",
+        "Cover the pot and bring to a gentle boil. Reduce heat to a very low simmer and cook with lid slightly ajar, skimming foam and excess fat occasionally, for at least 8 but up to 24 hours on the stovetop. (Do not leave on stovetop unattended, simply cool and continue simmering the next day.) Alternately, you can cook the broth in a slow cooker on low for the same amount of time."
+      ]
+    },
+    {
+      "phase": "Straining and Chilling",
+      "steps": [
+        "Remove the pot from the heat and let cool slightly.",
+        "Strain broth using a fine-mesh sieve and discard bones and vegetables.",
+        "Let continue to cool until barely warm, then refrigerate in smaller containers overnight.",
+        "Remove solidified fat from the top of the chilled broth."
+      ]
+    }
+  ]
+}
